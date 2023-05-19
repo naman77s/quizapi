@@ -1,0 +1,362 @@
+[
+    {
+        "question":"bacteriochlorophyll differs from chlorophyll 'a' in having:",
+        "a":"(a) One pyrrole nucleus with one hydrogen",
+        "b":"(b) One pyrrole nucleus with two hydrogen",
+        "c":"(c) One pyrrole nucleus with three hydrogen",
+        "d":"(d) One pyrrole nucleus with four hydrogen",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"which of the following pigment is yellow in colour?",
+        "a":"(a) chlorophyll 'a'",
+        "b":"(b)chlorophyll 'b'",
+        "c":"(c)carotene",
+        "d":"(d)Xanthophyll",
+        "hint":"",
+        "correct":"d"
+    },
+    {
+        "question":"C4 plants are adapted to:",
+        "a":"(a)hot and dry climate",
+        "b":"(b)temperature climate",
+        "c":"(c)cold and dry climate",
+        "d":"(d)hot and humid climate",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"Enzymes necessary for oxidative phosphorylation occur in :",
+        "a":"(a)chloroplast ",
+        "b":"(b)Ribosomes",
+        "c":"(c)mitoechondria",
+        "d":"(d)ER",
+        "hint":"",
+        "correct":"c"
+    },
+    {
+        "question":" Important requirement of phosphorylation is:",
+        "a":"(a) Release of electrons",
+        "b":"(b) Release of protons",
+        "c":"(c) Transfer of electrons",
+        "d":"(d) Activation of oxygen",
+        "hint":"",
+        "correct":"c"
+    },
+    {
+        "question":" Photosynthetically active  radiation  is  represented by the range of wavelength of",
+        "a":"(a) 340-450 nm",
+        "b":"(b) 400-700 nm",
+        "c":"(c) 500-600 nm",
+        "d":" (d) 400-950 nm",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" Plants give off oxygen because:  Tricky",
+        "a":"(a) oxygen results from the incorporation of carbon dioxide into sugars.",
+        "b":" (b) plants do not respire since they photosynthesise.",
+        "c":" (c) water is the initial proton donor, leaving oxygen as a photosynthetic by-product.",
+        "d":"(d) All of the above 8. ",
+        "hint":"",
+        "correct":"c"
+    },
+    {
+        "question":"Consider the following statements. Choose the correct option.",
+        "a":" (a) (i) is true but (ii) and (iii) are false",
+        "b":"(b) (i) and (ii) are false but (iii) is true",
+        "c":" (c) (i) is true but (i) and (iii) are false",
+        "d":"(d) (1) and (ii) are true but (iii) is false",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"C-Cycle is also known as:",
+        "a":"(a) Glycolate cycle",
+        "b":" (b) Calvin cycle",
+        "c":"(c) Kreb's cycle",
+        "d":"(d) TCA-cycle",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":" How many molecules of glycine is required to release one CO, molecule in photorespiration?",
+        "a":"(a) One ",
+        "b":"(b) Two",
+        "c":" (c) Three",
+        "d":" (d) Four",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" Which one of the following have high CO2 compensation point?",
+        "a":"(a) C2plants",
+        "b":"(b) C3 plants",
+        "c":"(c) C4 plants",
+        "d":" (d) Alpine herbs",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" Cyclic and non-cyclic electron flow is used in plants to:",
+        "a":"(a) Meet the ATP demands of the Calvin Benson cycle.",
+        "b":"(b) Avoid producing excess NADPH+H+.",
+        "c":"(c) Balance ATP and NADPH+H+ ratios in  the chloroplast.",
+        "d":"(d) All of the above",
+        "hint":"",
+        "correct":"d"
+    },
+    {
+        "question":" Organism that does not evolve O2, during photosynthesis is:",
+        "a":"(a) Funaria",
+        "b":"(b) Anabaena",
+        "c":"(c) Rhodospirillum",
+        "d":"(d) Nostoc",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" Substrate for photorespiration is:",
+        "a":"(a) Serine",
+        "b":"(b) Glycolate",
+        "c":"(c) Indole acetic acid ",
+        "d":" (d) Malic acid",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"Tropical plants like sugarcane show high efficiency of CO2, fixation because of:",
+        "a":"(a) Calvin cycle",
+        "b":"(b) Hatch-Slack cycle",
+        "c":"(c) Cyclic photophosphorylation",
+        "d":"(d) TCA Cycle",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" The scientist, who proved that bacteria use H2S gas and CO2 to synthesise carbohydrate, is",
+        "a":"(a) Van Niel",
+        "b":"(b) Ruben",
+        "c":"(c) Jean Senebier",
+        "d":"(d) Julius Robert Mayer",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"Tropical plants like sugarcane show high efficiency of CO2, fixation because of:",
+        "a":"(a) Calvin cycle",
+        "b":" (b) Hatch-Slack cycle",
+        "c":"(c) Cyclic photophosphorylation",
+        "d":"(d) TCA Cycle",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" The main site for dark reaction of photosynthesis is :",
+        "a":"(a) Stroma",
+        "b":"(b) Grana",
+        "c":"(c) Intergrana",
+        "d":"(d) Mitochondria",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"Maximum photosynthesis takes place in:",
+        "a":" (a) Red light",
+        "b":"(b) Blue light",
+        "c":" (c) Bright light",
+        "d":"(d) Green light",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"Accumulation of food in assimilatory cells results in:",
+        "a":"(a) Increase in the rate of photosynthesis",
+        "b":"(b) Decrease in the rate of photosynthesis",
+        "c":"(c) No effect",
+        "d":"(d) May increase or decrease",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"The main site for dark reaction of photosynthesis",
+        "a":"(a) Stroma",
+        "b":"(b) Grana",
+        "c":"(c) Intergrana",
+        "d":"(d) Mitochondria",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" Which fractions of the visible spectrum of solar radiations are primarily absorbed by carotenoids of the higher plants?",
+        "a":"(a) Violet and blue",
+        "b":"(b) Blue and green",
+        "c":"(c) Green and red",
+        "d":"(d) Red and violet",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":" NADP is converted into NADPH2, in:",
+        "a":"(a) Photosystem-l",
+        "b":"(b) Non-cyclic photophorylation",
+        "c":"(c) Calvin cycle",
+        "d":"(d) Photosystem-II",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"The form of pigment which inhibits germination is :",
+        "a":"(a) P760",
+        "b":"(b) P730",
+        "c":"(c) P650",
+        "d":"(d) All of these",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"The type of CO, fixation seen in many succulent  plant species is:",
+        "a":"(a) C-pathway",
+        "b":"(b) C-pathway",
+        "c":"(c) C-pathway",
+        "d":" (d) CAM-pathway.",
+        "hint":"",
+        "correct":"d"
+    },
+    {
+        "question":" What will be the consequence(s) of Warburg effect on photosynthesis?",
+        "a":"(a) Low rate of process due to O2 supply",
+        "b":"(b) Low rate of process due to CO, supply",
+        "c":"(c) Both (a) & (b)",
+        "d":"(d) None of the above",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":" CAM plants differ from C, plants in that:",
+        "a":"(a) carbon dioxide is stored as malic acid",
+        "b":"(b) photosynthesis can occur at night in these plants.",
+        "c":"(c) their stomata close during periods that favour photorespiration",
+        "d":" (d) they use PEP carboxylase to fix carbon  dioxide.",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"Half leaf experiment proves that:",
+        "a":"(a) light is essential for photosynthesis.",
+        "b":" (b) CO2, is essential for photosynthesis.",
+        "c":"(c) O, releases during photosynthesis.",
+        "d":"(d) chlorophyll is essential for photosynthesis.",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"Number of ATP molecules required for  regeneration phase of RuBP during synthesis  of I glucose molecule:",
+        "a":"(a) 6",
+        "b":"(b) 12",
+        "c":"(c) 18",
+        "d":"(d) 30",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"The wavelength of light absorbed by Pr form of phytochrome is:",
+        "a":"(a) 680 nm",
+        "b":"(b) 720 nm",
+        "c":"(c) 620 nm",
+        "d":"(d) 640 nm",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":" CAM-plants avoid photorespiration by:",
+        "a":"(a) performing Calvin cycle at night.",
+        "b":" (b) fixing CO2, into organic acid in night and releasing CO₂ in day.",
+        "c":"(c) using PEP carboxylate to fix CO, to RuDP.",
+        "d":" (d) keeping the stomata closed during the day.",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" Stomata of CAM plants:",
+        "a":"(a) never open ",
+        "b":" (b) are always open",
+        "c":"(e) open during the day and close at night",
+        "d":" (d) open during the night and close during the day",
+        "hint":"",
+        "correct":"d"
+    },
+    {
+        "question":" The wavelength of light absorbed by Pr form of phytochrome is: ",
+        "a":"(a) 680 nm",
+        "b":"(b) 720 nm",
+        "c":"(c) 620 nm",
+        "d":"(d) 640 nm",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"Which of the following is likely to be the first substance that a green plant makes in photosynthesis?",
+        "a":"(a) A simple sugar",
+        "b":"(b) Starch ",
+        "c":" (c) Fats",
+        "d":"(d) Proteins",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":"PGA as the first CO, fixation product was  discovered in photosynthesis of:",
+        "a":"(a) Bryophyte",
+        "b":"(b) Gymnosperm",
+        "c":" (c) Angiosperm",
+        "d":" (d) Alga",
+        "hint":"",
+        "correct":"d"
+    },
+    {
+        "question":"The first step in photosynthesis is:",
+        "a":"(a) Joining of three carbon atoms to form  glucose.",
+        "b":"(b) Formation of ATP",
+        "c":" (c) lonisation of water.",
+        "d":"(d) Excitement of an electron of chlorophyll by a photon of light",
+        "hint":"",
+        "correct":"c"
+    },
+    {
+        "question":"he first acceptor of electrons from an excited  chlorophyll molecule of photosystem II is:",
+        "a":"(a) Quinone",
+        "b":"(b) Cytochrome",
+        "c":" (c) Iron-sulphur protein",
+        "d":"(d) Ferredoxin",
+        "hint":"",
+        "correct":"a"
+    },
+    {
+        "question":" Final product of HSK cycle is formed in:",
+        "a":"(a) Mesophyll cells",
+        "b":"(b) Bundle sheath cells ",
+        "c":"(c) Epidermal cells",
+        "d":"(d) Guard cells",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":"The loss of water in C4, plants compared to C3 plants for the same amount of CO2, fixed is:",
+        "a":"(a) Half",
+        "b":"(b) One-third",
+        "c":"(c) One-fourth",
+        "d":" (d) Double",
+        "hint":"",
+        "correct":"b"
+    },
+    {
+        "question":" To form one molecule of glyceraldehyde  phosphate in Calvin cycle:",
+        "a":"(a) 9 ATP and 36 NADPH are required",
+        "b":"(b) 6 ATP and 6 NADPH are required",
+        "c":"(c) 3 ATP and 3 NADPH are required",
+        "d":"(d) 9 ATP and 6 NADPH are required",
+        "hint":"",
+        "correct":"d"
+    }
+]
